@@ -1,3 +1,3 @@
-module blitter.com/go/goutmp
+module github.com/nxsre/goutmp
 
 go 1.17
